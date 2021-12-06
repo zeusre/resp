@@ -1,0 +1,6 @@
+User-Agent: *
+
+Allow: /
+Disallow: 
+
+Sitemap: https://resep.zeusmail.me/sitemap/sitemap.xml
